@@ -1,0 +1,10 @@
+{
+  "description": "This adaptive traffic management dashboard visualizes real-time traffic conditions, optimizing signal timings to enhance flow and reduce congestion for urban planners.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
